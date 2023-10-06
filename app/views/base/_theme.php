@@ -15,7 +15,9 @@
   <link rel="icon" href="<?= BASE_IMG . "/base/images/favicon.png" ?>">
 
   <!-- Icon -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <!-- Styles -->
   <link rel="stylesheet" href="<?= BASE_STYLES . "/app.min.css" ?>" />
@@ -32,7 +34,9 @@
   <meta name="theme-color" content="#ffffff" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;500;600;700&family=Fira+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo:wght@400;500;600;700&family=Fira+Sans:wght@400;500&display=swap"
+    rel="stylesheet" />
 </head>
 
 <body>
@@ -41,7 +45,8 @@
     <div class="vs-menu-area text-center">
       <button class="vs-menu-toggle"><i class="fas fa-times"></i></button>
       <div class="mobile-logo">
-        <a href="/"><img src="/base/images/logo.png" alt="Soers Obi" class="logo" /></a>
+        <a href="/" style="margin-right: 1.6rem; max-width: 200px; min-width: 150px"><img src="/base/images/logo.png"
+            alt="Soers Obi" class="logo" style="margin-right: 1.6rem; max-width: 200px; min-width: 150px" /></a>
       </div>
 
       <div class="vs-mobile-menu">
@@ -61,12 +66,10 @@
             </ul>
           </li> -->
 
-          <li><a href="/about">Sobre Nós</a></li>
-          <li><a href="/sevices">Serviços</a></li>
-          <li><a href="/product">Produtos</a></li>
-          <li><a href="/galery">Galeria</a></li>
-          <li><a href="/team">Equipe</a></li>
-          <li><a href="/contact">Contactos</a></li>
+          <li><a href="#about">Sobre Nós</a></li>
+          <li><a href="#sevices">Serviços</a></li>
+          <li><a href="#faq">Perguntas frequentes</a></li>
+          <li><a href="#contact">Contactos</a></li>
         </ul>
       </div>
     </div>
@@ -74,76 +77,17 @@
 
   <!-- HEADER -->
   <header class="vs-header header-layout1">
-    <div class="header-top">
-      <div class="container">
-        <div class="row align-items-center justify-content-between gy-1 text-center text-lg-start">
-          <div class="col-lg-auto d-none d-lg-block">
-            <p class="header-text">
-              Bem-vindo á <span class="fw-medium">Soers Obi</span>
-            </p>
-          </div>
-          <div class="col-lg-auto">
-            <div class="header-social style-white">
-              <span class="social-title">Siga-nos no: </span><a href="#"><i class="fab fa-facebook-f"></i></a>
-              <a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-youtube"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <div class="container">
-      <div class="menu-top">
-        <div class="row justify-content-between align-items-center gx-sm-0">
-          <div class="col">
-            <div class="header-logo">
-              <a href="/"><img src="/base/images/logo.png" alt="TechBiz" class="logo" /></a>
-            </div>
-          </div>
-          <div class="col-auto header-info">
-            <div class="header-info_icon">
-              <i class="fas fa-phone-alt"></i>
-            </div>
-            <div class="media-body">
-              <span class="header-info_label">Ligue a qualquer hora 24/7</span>
-              <div class="header-info_link">
-                <a href="tel:+244222726345">(+244) 244 222 726 345</a>
-              </div>
-              <div class="header-info_link">
-                <a href="tel:+244923232537">(+244) 923 232 537</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-auto header-info d-none d-lg-flex">
-            <div class="header-info_icon">
-              <i class="fas fa-envelope"></i>
-            </div>
-            <div class="media-body">
-              <span class="header-info_label">Envie-nos um e-mail para obter suporte</span>
-              <div class="header-info_link">
-                <a href="mailto:info@TechBiz.com">info@soerscorporation.ao</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-auto header-info d-none d-xl-flex">
-            <div class="header-info_icon">
-              <i class="fas fa-map-marker-alt"></i>
-            </div>
-            <div class="media-body">
-              <span class="header-info_label">Endereço do escritório</span>
-              <div class="header-info_link">
-                Primeiro de Maio, Luanda, Angola
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div class="menu-top">
         <div class="row justify-content-between align-items-center gx-sm-0">
           <!-- MENU -->
           <div class="row align-items-center justify-content-between">
+            <div class="col" style="margin-right: 1.6rem; max-width: 200px; min-width: 150px">
+              <div class="header-logo">
+                <a href="/"><img src="/base/images/logo.png" style="" alt="TechBiz" class="logo" /></a>
+              </div>
+            </div>
+
             <nav class="main-menu menu-style1 d-none d-lg-block">
               <ul>
                 <li><a href="#">Página Inicial</a></li>
@@ -163,11 +107,10 @@
                 </li> -->
 
 
-                <li><a href="/about">Sobre Nós</a></li>
-                <li><a href="/services">Serviços</a></li>
-                <li><a href="/products">Produtos</a></li>
-                <li><a href="/gallery">Galeria</a></li>
-                <li><a href="/contact">Contactos</a></li>
+                <li><a href="#about">Sobre Nós</a></li>
+                <li><a href="#sevices">Serviços</a></li>
+                <li><a href="#faq">Perguntas frequentes</a></li>
+                <li><a href="#contact">Contactos</a></li>
               </ul>
             </nav>
 
@@ -222,7 +165,8 @@
               <div class="media-body">
                 <span class="footer-info_label">Contate-nos</span>
                 <div class="footer-info_link">
-                  <a href="mailto:info@soerscorporation.ao">info@soerscorporation.ao</a><br /><a href="tel:+2597462153">(+259) 746 2153</a>
+                  <a href="mailto:info@soerscorporation.ao">info@soerscorporation.ao</a><br /><a
+                    href="tel:+2597462153">(+259) 746 2153</a>
                 </div>
               </div>
             </div>
@@ -280,7 +224,10 @@
             <div class="widget footer-widget">
               <h3 class="widget_title">Localização do escritório</h3>
               <div class="footer-map">
-                <iframe title="Soers Obi, Lda" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15766.418088714063!2d13.180621663992971!3d-8.916307898298074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a51f57083357457%3A0xd9c7b88be32036cc!2zVGFsYXRvbmEsIEZ1YsO6!5e0!3m2!1spt-BR!2sao!4v1676651037855!5m2!1spt-BR!2sao" width="200" height="180" style="border: 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe title="Soers Obi, Lda"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15766.418088714063!2d13.180621663992971!3d-8.916307898298074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a51f57083357457%3A0xd9c7b88be32036cc!2zVGFsYXRvbmEsIEZ1YsO6!5e0!3m2!1spt-BR!2sao!4v1676651037855!5m2!1spt-BR!2sao"
+                  width="200" height="180" style="border: 0" allowfullscreen="" loading="lazy"
+                  referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </div>
