@@ -76,21 +76,20 @@
   </div>
 
   <!-- HEADER -->
-  <header class="vs-header header-layout1">
+  <header class="vs-header header-layout1" style="position: absolute; width: 100%;">
     <div class="container">
       <div class="menu-top">
         <div class="row justify-content-between align-items-center gx-sm-0">
           <!-- MENU -->
           <div class="row align-items-center justify-content-between">
-            <div class="col" style="margin-right: 1.6rem; max-width: 200px; min-width: 150px">
-              <div class="header-logo">
-                <a href="/"><img src="/base/images/logo.png" style="" alt="TechBiz" class="logo" /></a>
-              </div>
-            </div>
 
             <nav class="main-menu menu-style1 d-none d-lg-block">
               <ul>
-                <li><a href="#">Página Inicial</a></li>
+                <li>
+                  <a href="/" style="max-width: 14rem;"><img src="/base/images/logo.png" style="" alt="TechBiz"
+                      class="logo" /></a>
+                </li>
+                <li><a href="#" style="color: #ffffff;">Página Inicial</a></li>
 
                 <!-- <li class="menu-item-has-children">
                   <a href="#">Soers Obi
@@ -107,10 +106,10 @@
                 </li> -->
 
 
-                <li><a href="#about">Sobre Nós</a></li>
-                <li><a href="#sevices">Serviços</a></li>
-                <li><a href="#faq">Perguntas frequentes</a></li>
-                <li><a href="#contact">Contactos</a></li>
+                <li><a href="#about" style="color: #ffffff;">Sobre Nós</a></li>
+                <li><a href="#sevices" style="color: #ffffff;">Serviços</a></li>
+                <li><a href="#faq" style="color: #ffffff;">Perguntas frequentes</a></li>
+                <li><a href="#contact" style="color: #ffffff;">Contactos</a></li>
               </ul>
             </nav>
 
@@ -182,8 +181,9 @@
               <h3 class="widget_title">Sobre nós</h3>
               <div class="vs-widget-about">
                 <p class="footer-text">
-                  Intrinsicly evisculate emerging cutting edge scenarios
-                  redefine future-proof e-markets demand line
+                  Nosso compromisso é fornecer uma ampla gama de
+                  equipamentos hospitalares, materiais de diagnóstico e medicamentos de alta
+                  qualidade, todos projetados para atender aos mais rigorosos padrões de qualidade
                 </p>
                 <div class="footer-social">
                   <a href="#"><i class="fab fa-facebook-f"></i></a>

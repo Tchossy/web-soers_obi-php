@@ -25,8 +25,7 @@
               background-color: rgba(14, 84, 245, 0.5);
               top: -473px;
               left: 51px;
-            " class="ls-l ls-text-layer d-hd-none"
-          data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
         </div>
         <div style="
               font-size: 36px;
@@ -50,8 +49,7 @@
                 rgba(5, 26, 79, 0.35) 21%,
                 rgba(0, 0, 0, 0) 54%
               );
-            " class="ls-l ls-text-layer d-hd-none"
-          data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
         </div>
         <h1 style="
               top: 225px;
@@ -62,8 +60,7 @@
               font-size: 60px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Conectando
         </h1>
         <h1 style="
@@ -81,8 +78,7 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Saúde &amp; Cuidado
         </h1>
         <div style="
@@ -96,24 +92,9 @@
               width: 695px;
               color: #ffffff;
               white-space: normal;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
           Navegue pelo nosso universo de soluções farmacêuticas e hospitalares de qualidade. Somos a ponte que conecta a
           saúde ao cuidado, fornecendo produtos confiáveis em todo o mundo.
-        </div>
-        <div style="
-              top: 495px;
-              left: 350px;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="far fa-arrow-right"></i></a>
-            <a href="#services" class="vs-btn style2 ls-hero-btn">Consultar mais informações<i
-                class="far fa-arrow-right"></i></a>
-          </div>
         </div>
 
         <h1 style="
@@ -125,8 +106,7 @@
               font-size: 80px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Conectando
         </h1>
         <h1 style="
@@ -144,24 +124,10 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Saúde &amp; Cuidado
         </h1>
-        <div style="
-              top: 540px;
-              left: 80px;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="far fa-arrow-right"></i></a>
-            <a href="#services" class="vs-btn style2 ls-hero-btn">Consultar mais informações<i
-                class="far fa-arrow-right"></i></a>
-          </div>
-        </div>
+
         <h1 style="
               top: 120px;
               left: 50%;
@@ -173,8 +139,7 @@
               color: #ffffff;
               font-family: Exo;
               width: 10000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Conectando Saúde &amp;
         </h1>
         <h1 style="
@@ -194,24 +159,9 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Cuidado
         </h1>
-        <div style="
-              top: 520px;
-              left: 50%;
-              text-align: center;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-              width: 1000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="col-lg-6 ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="fas fa-arrow-right"></i></a>
-          </div>
-        </div>
 
         <!-- BUTTON PREV -->
         <a class="ls-l ls-hide-tablet ls-hide-phone" href="#next" target="_self" data-ls="static:forever;">
@@ -283,8 +233,7 @@
               background-color: rgba(14, 84, 245, 0.5);
               top: -473px;
               left: 51px;
-            " class="ls-l ls-text-layer d-hd-none"
-          data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
         </div>
         <div style="
               font-size: 36px;
@@ -308,8 +257,7 @@
                 rgba(5, 26, 79, 0.35) 21%,
                 rgba(0, 0, 0, 0) 54%
               );
-            " class="ls-l ls-text-layer d-hd-none"
-          data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
         </div>
 
         <h1 style="
@@ -321,8 +269,7 @@
               font-size: 60px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Preservando Vidas
         </h1>
         <h1 style="
@@ -340,8 +287,7 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           &amp; Entregando Excelência
         </h1>
         <div style="
@@ -355,24 +301,9 @@
               width: 695px;
               color: #ffffff;
               white-space: normal;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
           Com um compromisso inflexível com a excelência, armazenamos, distribuímos e exportamos medicamentos e
           dispositivos médicos essenciais.
-        </div>
-        <div style="
-              top: 495px;
-              left: 350px;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="far fa-arrow-right"></i></a>
-            <a href="#services" class="vs-btn style2 ls-hero-btn">Consultar mais informações<i
-                class="far fa-arrow-right"></i></a>
-          </div>
         </div>
 
         <h1 style="
@@ -384,8 +315,7 @@
               font-size: 80px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Preservando Vidas
         </h1>
         <h1 style="
@@ -403,24 +333,10 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           &amp; Entregando Excelência
         </h1>
-        <div style="
-              top: 540px;
-              left: 80px;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="far fa-arrow-right"></i></a>
-            <a href="#services" class="vs-btn style2 ls-hero-btn">Consultar mais informações<i
-                class="far fa-arrow-right"></i></a>
-          </div>
-        </div>
+
         <h1 style="
               top: 120px;
               left: 50%;
@@ -432,8 +348,7 @@
               color: #ffffff;
               font-family: Exo;
               width: 10000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Preservando Vidas &amp;
         </h1>
         <h1 style="
@@ -453,24 +368,9 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Entregando Excelência
         </h1>
-        <div style="
-              top: 520px;
-              left: 50%;
-              text-align: center;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-              width: 1000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="col-lg-6 ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="fas fa-arrow-right"></i></a>
-          </div>
-        </div>
       </div>
 
       <!-- SLIDE 03 -->
@@ -494,8 +394,7 @@
               background-color: rgba(14, 84, 245, 0.5);
               top: -473px;
               left: 51px;
-            " class="ls-l ls-text-layer d-hd-none"
-          data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
         </div>
         <div style="
               font-size: 36px;
@@ -519,8 +418,7 @@
                 rgba(5, 26, 79, 0.35) 21%,
                 rgba(0, 0, 0, 0) 54%
               );
-            " class="ls-l ls-text-layer d-hd-none"
-          data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
         </div>
         <h1 style="
               top: 225px;
@@ -531,8 +429,7 @@
               font-size: 60px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Além dos Limites
         </h1>
         <h1 style="
@@ -550,8 +447,7 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           da Saúde
         </h1>
         <div style="
@@ -565,26 +461,10 @@
               width: 695px;
               color: #ffffff;
               white-space: normal;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
           Não somos apenas uma empresa, somos uma missão. Explore nosso compromisso em levar o melhor em medicamentos e
           material hospitalar para onde ele é mais necessário.
         </div>
-        <div style="
-              top: 495px;
-              left: 350px;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="far fa-arrow-right"></i></a>
-            <a href="#services" class="vs-btn style2 ls-hero-btn">Consultar mais informações<i
-                class="far fa-arrow-right"></i></a>
-          </div>
-        </div>
-
         <h1 style="
               top: 280px;
               left: 80px;
@@ -594,8 +474,7 @@
               font-size: 80px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Além dos Limites
         </h1>
         <h1 style="
@@ -613,24 +492,10 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           da Saúde
         </h1>
-        <div style="
-              top: 540px;
-              left: 80px;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="far fa-arrow-right"></i></a>
-            <a href="#services" class="vs-btn style2 ls-hero-btn">Consultar mais informações<i
-                class="far fa-arrow-right"></i></a>
-          </div>
-        </div>
+
         <h1 style="
               top: 120px;
               left: 50%;
@@ -642,8 +507,7 @@
               color: #ffffff;
               font-family: Exo;
               width: 10000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Além dos Limites
         </h1>
         <h1 style="
@@ -663,91 +527,21 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
-          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           da Saúde
         </h1>
-        <div style="
-              top: 520px;
-              left: 50%;
-              text-align: center;
-              background-size: inherit;
-              background-position: inherit;
-              font-size: 24px;
-              width: 1000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
-          data-ls="offsetyin:50; durationin:1500; delayin:900; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
-          <div class="col-lg-6 ls-btn-group">
-            <a href="#about" class="vs-btn ls-hero-btn">SOBRE NÓS<i class="fas fa-arrow-right"></i></a>
-          </div>
-        </div>
+
       </div>
     </div>
   </section>
 
-  <!-- BECAUSE / ABOUT -->
+  <!-- ABOUT -->
   <div data-bg-src="/base/images/bg/ab-bg-1-1.jpg">
-    <!-- BECAUSE US -->
-    <section class="feature-wrap1 space-top space-extra-bottom">
-      <div class="container wow fadeInUp" data-wow-delay="0.2s">
-        <div class="row vs-carousel" data-slide-show="3" data-lg-slide-show="2" data-md-slide-show="2">
-          <!-- BECAUSE 1 -->
-          <div class="col-xl-4">
-            <div class="feature-style1">
-              <div class="feature-icon">
-                <img src="/base/images/icon/fe-1-1.png" alt="Features" />
-              </div>
-              <h3 class="feature-title h5">
-                <a class="text-inherit" href="service-details.html">Atendimento sem rodeio</a>
-              </h3>
-              <p class="feature-text">
-                Nossa abordagem é direta e eficiente, colocando você em primeiro lugar, sem rodeios ou complicações.
-              </p>
-            </div>
-          </div>
-
-          <!-- BECAUSE 2 -->
-          <div class="col-xl-4">
-            <div class="feature-style1">
-              <div class="feature-icon">
-                <img src="/base/images/icon/fe-1-2.png" alt="Features" />
-              </div>
-              <h3 class="feature-title h5">
-                <a class="text-inherit" href="service-details.html">Serviços de qualidade</a>
-              </h3>
-              <p class="feature-text">
-                Garantimos que cada serviço que oferecemos é executado com os mais altos padrões de qualidade, para sua
-                total satisfação.
-              </p>
-            </div>
-          </div>
-
-          <!-- BECAUSE 3 -->
-          <div class="col-xl-4">
-            <div class="feature-style1">
-              <div class="feature-icon">
-                <img src="/base/images/icon/fe-1-3.png" alt="Features" />
-              </div>
-              <h3 class="feature-title h5">
-                <a class="text-inherit" href="service-details.html">Direto ao ponto</a>
-              </h3>
-              <p class="feature-text">
-                Nosso compromisso é fornecer soluções práticas e eficazes, indo direto ao ponto para atender às suas
-                necessidades.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
     <!-- ABOUT OUR COMPANY -->
     <section id="about" class="space-top space-extra-bottom">
       <div class="container">
         <div class="row flex-row-reverse">
-          <div class="col-lg-6 mb-30 pb-10 pb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
-            style="visibility: visible;animation-delay: 0.2s;animation-name: fadeInUp;">
+          <div class="col-lg-6 mb-30 pb-10 pb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style="visibility: visible;animation-delay: 0.2s;animation-name: fadeInUp;">
             <div class="img-box5">
               <div class="img-1">
                 <img src="/base/images/about/ab-4-1.jpg" alt="image" />
@@ -764,31 +558,16 @@
             </div>
           </div>
           <div class="col-lg-6 mb-30">
-            <span class="sec-subtitle"><i class="fas fa-bring-forward"></i>Sobre a Empresa</span>
             <h2 class="sec-title3 h1">
               SOERS OBI CORPORATION, LDA
             </h2>
             <div class="exp-media">
-              <div class="exp-media__total">25</div>
               <div class="media-body">
-                <h3 class="exp-media__title">Anos de Experiencia</h3>
                 <p class="exp-media__text">
-                  Somos uma equipa dinâmica e especializada e dedicada na área do Procurement.
-                </p>
-                <p class="exp-media__text">
-                  Estamos no mercado com uma visão muito
-                  própria e uma filosófica baseada em valores
-                  de ética; respeito e honestidade.
-                </p>
-                <p class="exp-media__text">
-                  Definimos objetivos de posicionamento no
-                  mercado e de crescimento sustentado que
-                  passam pela conceção e pela implementação
-                  de um modelo de gestão baseado no compromisso coletivo para o cumprimento dos
-                  requisitos aplicáveis e para a garantia da
-                  eficácia do sistema de gestão da qualidade,
-                  visando apoiar os nossos Clientes, Colaboradores e Partes Interessadas a alcançar elevados padrões de
-                  eficiência e inovação.
+                  A Soers Obi é uma fonte confiável e experiente quando se trata de atender às
+                  necessidades do setor de saúde. Nosso compromisso é fornecer uma ampla gama de
+                  equipamentos hospitalares, materiais de diagnóstico e medicamentos de alta
+                  qualidade, todos projetados para atender aos mais rigorosos padrões de qualidade.
                 </p>
               </div>
             </div>
@@ -815,16 +594,14 @@
   <section class="space">
     <div class="container">
       <div class="row gx-70">
-        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
-          style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
           <div class="img-box8">
             <div class="img-1">
               <img src="/base/images/about/ab-2-1.jpg" alt="about1" />
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s"
-          style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s" style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
           <span class="sec-subtitle2 mb-lg-4 pb-lg-2">
             <i class="fal fa-arrow-right"></i>
             Nossa Missão
@@ -846,8 +623,7 @@
   <section class="space">
     <div class="container">
       <div class="row gx-70">
-        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s"
-          style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s" style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
           <span class="sec-subtitle2 mb-lg-4 pb-lg-2">
             <i class="fal fa-arrow-right"></i>
             Nossa Visão
@@ -862,8 +638,7 @@
             crescimento e o impacto positivo em nosso setor.
           </p>
         </div>
-        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
-          style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
           <div class="img-box8">
             <div class="img-1">
               <img src="/base/images/about/ab-2-2.jpg" alt="about1" />
@@ -877,16 +652,14 @@
   <section class="space">
     <div class="container">
       <div class="row gx-70">
-        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
-          style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
           <div class="img-box8">
             <div class="img-1">
               <img src="/base/images/about/ab-2-3.jpg" alt="about1" />
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s"
-          style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s" style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
           <span class="sec-subtitle2 mb-lg-4 pb-lg-2">
             <i class="fal fa-arrow-right"></i>
             Ética como Fundamento
@@ -925,10 +698,9 @@
             <div class="vs-blog blog-style1">
               <div class="blog-img"><img src="/base/images/service/service-1.jpg" alt="Blog Image" class="w-100"></div>
               <div class="blog-content">
-                <h3 class="blog-title h5">Medicamentos</h3>
-                <div class="blog-meta">Fornecimento de uma ampla gama de medicamentos para hospitais, clínicas e outras
-                  instituições de saúde. Isso inclui medicamentos para tratamento de pacientes e produtos farmacêuticos
-                  essenciais</div>
+                <h3 class="blog-title h5">Fonte e aquisição estratégica e desenvolvimento de negócios</h3>
+                <div class="blog-meta">Auxiliamos os nossos clientes a encontrar novas oportunidades de negócios.
+                </div>
               </div>
             </div>
           </div>
@@ -937,10 +709,10 @@
             <div class="vs-blog blog-style1">
               <div class="blog-img"><img src="/base/images/service/service-2.jpg" alt="Blog Image" class="w-100"></div>
               <div class="blog-content">
-                <h3 class="blog-title h5">Material para Diagnóstico</h3>
-                <div class="blog-meta">Aquisição de suprimentos e equipamentos usados em diagnósticos médicos. Isso
-                  abrange
-                  desde reagentes para testes laboratoriais até máquinas de diagnóstico por imagem</div>
+                <h3 class="blog-title h5">Limpeza industria</h3>
+                <div class="blog-meta">Actuamos nos ramos de Higiene Industrial, Desinfestação, Formação e Fornecimento
+                  de todo o tipo de Material de Limpeza e Biossegurança.
+                </div>
               </div>
             </div>
           </div>
@@ -949,24 +721,9 @@
             <div class="vs-blog blog-style1">
               <div class="blog-img"><img src="/base/images/service/service-3.jpg" alt="Blog Image" class="w-100"></div>
               <div class="blog-content">
-                <h3 class="blog-title h5">Equipamentos Hospitalares</h3>
-                <div class="blog-meta">Fornecimento de equipamentos médicos e hospitalares necessários para o
-                  funcionamento
-                  eficiente de instituições de saúde. Isso pode incluir máquinas cirúrgicas, equipamentos de
-                  monitoramento,
-                  camas hospitalares e muito mais.</div>
-              </div>
-            </div>
-          </div>
-          <!-- Service 4 -->
-          <div class="col-md-6 col-lg-4">
-            <div class="vs-blog blog-style1">
-              <div class="blog-img"><img src="/base/images/service/service-4.jpg" alt="Blog Image" class="w-100"></div>
-              <div class="blog-content">
-                <h3 class="blog-title h5">Venda de Produtos de Medicina Dentária</h3>
-                <div class="blog-meta">Oferecimento de produtos e equipamentos odontológicos para clínicas e
-                  consultórios
-                  odontológicos. Isso abrange cadeiras odontológicas, instrumentos, materiais dentários e mais</div>
+                <h3 class="blog-title h5">Equipamentos hospitalares/medicamentos</h3>
+                <div class="blog-meta">Fornecemos todo o tipo de equipamento hospitalar, material para diagnóstico e
+                  medicamentos, obedecendo aos padrões de qualidade.</div>
               </div>
             </div>
           </div>
@@ -981,7 +738,7 @@
       <div class="container wow fadeInUp" data-wow-delay="0.2s">
         <div class="row justify-content-between gy-4">
           <!-- PROJETOS CONCLUÍDOS -->
-          <div class="col-6 col-lg-auto">
+          <!-- <div class="col-6 col-lg-auto">
             <div class="counter-media">
               <div class="counter-media__icon">
                 <img src="/base/images/icon/count-1-1.png" alt="icon" />
@@ -993,7 +750,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!-- PRODUTOS FORNECIDOS -->
           <div class="col-6 col-lg-auto">
@@ -1003,7 +760,7 @@
               </div>
               <div class="media-body">
                 <span class="counter-media__number h1 text-white">+1890</span>
-                <p class="counter-media__title text-white">PRODUTOS FORNECIDOS</p>
+                <p class="counter-media__title text-white">PRODUTOS DA ÁREA DE LIMPEZA</p>
               </div>
             </div>
           </div>
@@ -1012,12 +769,13 @@
           <div class="col-6 col-lg-auto">
             <div class="counter-media">
               <div class="counter-media__icon">
-                <img src="/base/images/icon/count-1-4.png" alt="icon" />
+                <img src="/base/images/icon/count-1-1.png" alt="icon" />
+
               </div>
               <div class="media-body">
-                <span class="counter-media__number h1 text-white">+367</span>
+                <span class="counter-media__number h1 text-white">+1632</span>
                 <p class="counter-media__title text-white">
-                  Clientes satisfeitos
+                  PRODUTOS DA ÁREA DE SAÚDE
                 </p>
               </div>
             </div>
@@ -1051,13 +809,11 @@
           <div class="accordion accordion-style1" id="faqVersion1">
             <div class="accordion-item">
               <div class="accordion-header" id="headingOne">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                  aria-expanded="true" aria-controls="collapseOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   O que é aprovisionamento (Procurement)?
                 </button>
               </div>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                data-bs-parent="#faqVersion1">
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqVersion1">
                 <div class="accordion-body">
                   <p>
                     O aprovisionamento, também conhecido como procurement, é o processo de aquisição de bens, serviços e
@@ -1069,13 +825,11 @@
             </div>
             <div class="accordion-item">
               <div class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   Quais serviços específicos a sua empresa oferece na área de saúde?
                 </button>
               </div>
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                data-bs-parent="#faqVersion1">
+              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqVersion1">
                 <div class="accordion-body">
                   <p>
                     Nossa empresa oferece serviços de aprovisionamento de medicamentos, material para diagnósticos,
@@ -1086,13 +840,11 @@
             </div>
             <div class="accordion-item">
               <div class="accordion-header" id="headingThree">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   omo posso solicitar uma cotação ou fazer um pedido?
                 </button>
               </div>
-              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                data-bs-parent="#faqVersion1">
+              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqVersion1">
                 <div class="accordion-body">
                   <p>
                     Você pode entrar em contato conosco por meio dos nossos canais de comunicação, como telefone, e-mail
@@ -1117,8 +869,7 @@
 
 
       <div class="tab-content" id="nav-contactTabContent">
-        <div class="tab-pane fade show active" id="nav-GermanyAddress" role="tabpanel"
-          aria-labelledby="nav-GermanyAddress-tab">
+        <div class="tab-pane fade show active" id="nav-GermanyAddress" role="tabpanel" aria-labelledby="nav-GermanyAddress-tab">
           <div class="row">
             <div class="col-lg-6 mb-30">
               <div class="contact-box">
@@ -1134,8 +885,7 @@
                   <div class="media-body">
                     <h4 class="contact-box__label">Número de telefone e e-mail</h4>
                     <p class="contact-box__info">
-                      <a href="tel:+244923232537">(+244) 923 232 537</a><a
-                        href="mailto:info@soerscorporation.ao">info@soerscorporation.ao</a>
+                      <a href="tel:+244923232537">(+244) 923 232 537</a><a href="mailto:info@soerscorporation.ao">info@soerscorporation.ao</a>
                     </p>
                   </div>
                 </div>
