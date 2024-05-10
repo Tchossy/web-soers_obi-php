@@ -25,7 +25,8 @@
               background-color: rgba(14, 84, 245, 0.5);
               top: -473px;
               left: 51px;
-            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none"
+          data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
         </div>
         <div style="
               font-size: 36px;
@@ -49,7 +50,8 @@
                 rgba(5, 26, 79, 0.35) 21%,
                 rgba(0, 0, 0, 0) 54%
               );
-            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none"
+          data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
         </div>
         <h1 style="
               top: 225px;
@@ -60,7 +62,8 @@
               font-size: 60px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Conectando
         </h1>
         <h1 style="
@@ -78,7 +81,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Saúde &amp; Cuidado
         </h1>
         <div style="
@@ -92,7 +96,8 @@
               width: 695px;
               color: #ffffff;
               white-space: normal;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
           Navegue pelo nosso universo de soluções farmacêuticas e hospitalares de qualidade. Somos a ponte que conecta a
           saúde ao cuidado, fornecendo produtos confiáveis em todo o mundo.
         </div>
@@ -106,7 +111,8 @@
               font-size: 80px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Conectando
         </h1>
         <h1 style="
@@ -124,7 +130,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Saúde &amp; Cuidado
         </h1>
 
@@ -139,7 +146,8 @@
               color: #ffffff;
               font-family: Exo;
               width: 10000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Conectando Saúde &amp;
         </h1>
         <h1 style="
@@ -159,7 +167,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Cuidado
         </h1>
 
@@ -233,7 +242,8 @@
               background-color: rgba(14, 84, 245, 0.5);
               top: -473px;
               left: 51px;
-            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none"
+          data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
         </div>
         <div style="
               font-size: 36px;
@@ -257,7 +267,8 @@
                 rgba(5, 26, 79, 0.35) 21%,
                 rgba(0, 0, 0, 0) 54%
               );
-            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none"
+          data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
         </div>
 
         <h1 style="
@@ -269,7 +280,8 @@
               font-size: 60px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Preservando Vidas
         </h1>
         <h1 style="
@@ -287,7 +299,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           &amp; Entregando Excelência
         </h1>
         <div style="
@@ -301,7 +314,8 @@
               width: 695px;
               color: #ffffff;
               white-space: normal;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
           Com um compromisso inflexível com a excelência, armazenamos, distribuímos e exportamos medicamentos e
           dispositivos médicos essenciais.
         </div>
@@ -315,7 +329,8 @@
               font-size: 80px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Preservando Vidas
         </h1>
         <h1 style="
@@ -333,7 +348,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           &amp; Entregando Excelência
         </h1>
 
@@ -348,7 +364,8 @@
               color: #ffffff;
               font-family: Exo;
               width: 10000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Preservando Vidas &amp;
         </h1>
         <h1 style="
@@ -368,7 +385,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           Entregando Excelência
         </h1>
       </div>
@@ -394,7 +412,8 @@
               background-color: rgba(14, 84, 245, 0.5);
               top: -473px;
               left: 51px;
-            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none"
+          data-ls="offsetxin:-800; offsetyin:-800; durationin:1700; delayin:1200; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; rotation:43.46;">
         </div>
         <div style="
               font-size: 36px;
@@ -418,7 +437,8 @@
                 rgba(5, 26, 79, 0.35) 21%,
                 rgba(0, 0, 0, 0) 54%
               );
-            " class="ls-l ls-text-layer d-hd-none" data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
+            " class="ls-l ls-text-layer d-hd-none"
+          data-ls="offsetxin:-800; offsetyin:-800; durationin:1500; delayin:1300; easingin:easeOutQuint; rotatein:43.46; offsetxout:1200; offsetyout:1200; durationout:8000; startatout:slidechangeonly + 3000; easingout:easeOutQuint; scaleyout:5; bgcolorout:transparent; colorout:transparent; rotation:43.46;">
         </div>
         <h1 style="
               top: 225px;
@@ -429,7 +449,8 @@
               font-size: 60px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Além dos Limites
         </h1>
         <h1 style="
@@ -447,7 +468,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           da Saúde
         </h1>
         <div style="
@@ -461,7 +483,8 @@
               width: 695px;
               color: #ffffff;
               white-space: normal;
-            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
+          data-ls="offsetyin:50; durationin:1500; delayin:600; easingin:easeOutQuint; offsetyout:50; durationout:1500; easingout:easeOutQuint; position:relative;">
           Não somos apenas uma empresa, somos uma missão. Explore nosso compromisso em levar o melhor em medicamentos e
           material hospitalar para onde ele é mais necessário.
         </div>
@@ -474,7 +497,8 @@
               font-size: 80px;
               color: #ffffff;
               font-family: Exo;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Além dos Limites
         </h1>
         <h1 style="
@@ -492,7 +516,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           da Saúde
         </h1>
 
@@ -507,7 +532,8 @@
               color: #ffffff;
               font-family: Exo;
               width: 10000px;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
           Além dos Limites
         </h1>
         <h1 style="
@@ -527,7 +553,8 @@
               background-color: transparent;
               background-repeat: no-repeat;
               cursor: auto;
-            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
+            " class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
+          data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
           da Saúde
         </h1>
 
@@ -541,7 +568,8 @@
     <section id="about" class="space-top space-extra-bottom">
       <div class="container">
         <div class="row flex-row-reverse">
-          <div class="col-lg-6 mb-30 pb-10 pb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style="visibility: visible;animation-delay: 0.2s;animation-name: fadeInUp;">
+          <div class="col-lg-6 mb-30 pb-10 pb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
+            style="visibility: visible;animation-delay: 0.2s;animation-name: fadeInUp;">
             <div class="img-box5">
               <div class="img-1">
                 <img src="/base/images/about/ab-4-1.jpg" alt="image" />
@@ -594,14 +622,16 @@
   <section class="space">
     <div class="container">
       <div class="row gx-70">
-        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
+          style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
           <div class="img-box8">
             <div class="img-1">
               <img src="/base/images/about/ab-2-1.jpg" alt="about1" />
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s" style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s"
+          style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
           <span class="sec-subtitle2 mb-lg-4 pb-lg-2">
             <i class="fal fa-arrow-right"></i>
             Nossa Missão
@@ -623,7 +653,8 @@
   <section class="space">
     <div class="container">
       <div class="row gx-70">
-        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s" style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s"
+          style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
           <span class="sec-subtitle2 mb-lg-4 pb-lg-2">
             <i class="fal fa-arrow-right"></i>
             Nossa Visão
@@ -638,7 +669,8 @@
             crescimento e o impacto positivo em nosso setor.
           </p>
         </div>
-        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
+          style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
           <div class="img-box8">
             <div class="img-1">
               <img src="/base/images/about/ab-2-2.jpg" alt="about1" />
@@ -652,14 +684,16 @@
   <section class="space">
     <div class="container">
       <div class="row gx-70">
-        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s" style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl-auto mb-50 mb-lg-0 wow fadeInUp wow-animated" data-wow-delay="0.2s"
+          style=" visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; ">
           <div class="img-box8">
             <div class="img-1">
               <img src="/base/images/about/ab-2-3.jpg" alt="about1" />
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s" style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
+        <div class="col-lg-6 col-xl align-self-center wow fadeInUp wow-animated" data-wow-delay="0.4s"
+          style=" visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp; ">
           <span class="sec-subtitle2 mb-lg-4 pb-lg-2">
             <i class="fal fa-arrow-right"></i>
             Ética como Fundamento
@@ -698,8 +732,10 @@
             <div class="vs-blog blog-style1">
               <div class="blog-img"><img src="/base/images/service/service-1.jpg" alt="Blog Image" class="w-100"></div>
               <div class="blog-content">
-                <h3 class="blog-title h5">Fonte e aquisição estratégica e desenvolvimento de negócios</h3>
-                <div class="blog-meta">Auxiliamos os nossos clientes a encontrar novas oportunidades de negócios.
+                <h3 class="blog-title h5">Construção Hospitalar</h3>
+                <div class="blog-meta">Serviço especializado em planejar e executar a construção de instalações
+                  hospitalares modernas e eficientes, garantindo ambientes adequados para o cuidado e tratamento de
+                  pacientes.
                 </div>
               </div>
             </div>
@@ -709,9 +745,10 @@
             <div class="vs-blog blog-style1">
               <div class="blog-img"><img src="/base/images/service/service-2.jpg" alt="Blog Image" class="w-100"></div>
               <div class="blog-content">
-                <h3 class="blog-title h5">Limpeza industria</h3>
-                <div class="blog-meta">Actuamos nos ramos de Higiene Industrial, Desinfestação, Formação e Fornecimento
-                  de todo o tipo de Material de Limpeza e Biossegurança.
+                <h3 class="blog-title h5">Apetrechamento Hospitalar</h3>
+                <div class="blog-meta">Oferecemos soluções completas para equipar hospitais com tecnologia de ponta,
+                  mobiliário ergonômico e suprimentos médicos essenciais, visando garantir um ambiente seguro e
+                  funcional para profissionais de saúde e pacientes.
                 </div>
               </div>
             </div>
@@ -721,9 +758,34 @@
             <div class="vs-blog blog-style1">
               <div class="blog-img"><img src="/base/images/service/service-3.jpg" alt="Blog Image" class="w-100"></div>
               <div class="blog-content">
-                <h3 class="blog-title h5">Equipamentos hospitalares/medicamentos</h3>
-                <div class="blog-meta">Fornecemos todo o tipo de equipamento hospitalar, material para diagnóstico e
-                  medicamentos, obedecendo aos padrões de qualidade.</div>
+                <h3 class="blog-title h5">Manutenção Hospitalar</h3>
+                <div class="blog-meta">Serviço dedicado a manter a infraestrutura hospitalar em perfeitas condições de
+                  funcionamento, realizando reparos, inspeções e atualizações regulares para garantir a segurança e o
+                  conforto dos pacientes e funcionários.</div>
+              </div>
+            </div>
+          </div>
+          <!-- Service 4 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/service/service-4.jpg" alt="Blog Image" class="w-100"></div>
+              <div class="blog-content">
+                <h3 class="blog-title h5">Reabilitação Hospitalar</h3>
+                <div class="blog-meta">Fornecemos programas abrangentes de reabilitação hospitalar, incluindo terapias
+                  físicas, ocupacionais e psicológicas, com o objetivo de promover a recuperação e o bem-estar de
+                  pacientes após doenças, lesões ou cirurgias.</div>
+              </div>
+            </div>
+          </div>
+          <!-- Service 5 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/service/service-5.jpg" alt="Blog Image" class="w-100"></div>
+              <div class="blog-content">
+                <h3 class="blog-title h5">Formação médica</h3>
+                <div class="blog-meta">Oferecemos cursos e treinamentos especializados para profissionais de saúde,
+                  abrangendo uma variedade de temas e técnicas avançadas, visando atualizar e aprimorar constantemente
+                  as habilidades clínicas e o conhecimento médico.</div>
               </div>
             </div>
           </div>
@@ -738,7 +800,7 @@
       <div class="container wow fadeInUp" data-wow-delay="0.2s">
         <div class="row justify-content-between gy-4">
           <!-- PROJETOS CONCLUÍDOS -->
-          <!-- <div class="col-6 col-lg-auto">
+          <div class="col-6 col-lg-auto">
             <div class="counter-media">
               <div class="counter-media__icon">
                 <img src="/base/images/icon/count-1-1.png" alt="icon" />
@@ -750,7 +812,7 @@
                 </p>
               </div>
             </div>
-          </div> -->
+          </div>
 
           <!-- PRODUTOS FORNECIDOS -->
           <div class="col-6 col-lg-auto">
@@ -760,13 +822,13 @@
               </div>
               <div class="media-body">
                 <span class="counter-media__number h1 text-white">+1890</span>
-                <p class="counter-media__title text-white">PRODUTOS DA ÁREA DE LIMPEZA</p>
+                <p class="counter-media__title text-white">CLIENTES SATISFEITOS</p>
               </div>
             </div>
           </div>
 
           <!-- Clientes satisfeitos -->
-          <div class="col-6 col-lg-auto">
+          <!-- <div class="col-6 col-lg-auto">
             <div class="counter-media">
               <div class="counter-media__icon">
                 <img src="/base/images/icon/count-1-1.png" alt="icon" />
@@ -779,7 +841,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -809,11 +871,13 @@
           <div class="accordion accordion-style1" id="faqVersion1">
             <div class="accordion-item">
               <div class="accordion-header" id="headingOne">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                  aria-expanded="true" aria-controls="collapseOne">
                   O que é aprovisionamento (Procurement)?
                 </button>
               </div>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqVersion1">
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                data-bs-parent="#faqVersion1">
                 <div class="accordion-body">
                   <p>
                     O aprovisionamento, também conhecido como procurement, é o processo de aquisição de bens, serviços e
@@ -825,11 +889,13 @@
             </div>
             <div class="accordion-item">
               <div class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   Quais serviços específicos a sua empresa oferece na área de saúde?
                 </button>
               </div>
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqVersion1">
+              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                data-bs-parent="#faqVersion1">
                 <div class="accordion-body">
                   <p>
                     Nossa empresa oferece serviços de aprovisionamento de medicamentos, material para diagnósticos,
@@ -840,11 +906,13 @@
             </div>
             <div class="accordion-item">
               <div class="accordion-header" id="headingThree">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  omo posso solicitar uma cotação ou fazer um pedido?
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Como posso solicitar uma cotação ou fazer um pedido?
                 </button>
               </div>
-              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqVersion1">
+              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                data-bs-parent="#faqVersion1">
                 <div class="accordion-body">
                   <p>
                     Você pode entrar em contato conosco por meio dos nossos canais de comunicação, como telefone, e-mail
@@ -860,6 +928,71 @@
     </div>
   </section>
 
+  <!-- OUR SERVICES -->
+  <section id="sevices" class="space-top space-extra-bottom" data-bg-src="/base/images/bg/sr-bg-1-1.png">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-8 col-xl-6 wow fadeInUp" data-wow-delay="0.2s">
+          <div class="title-area">
+            <span class="sec-subtitle">Galeria</span>
+            <h2 class="sec-title h1">Nossa galeria</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row wow fadeInUp" data-wow-delay="0.2s">
+        <div class="row">
+          <!-- event 1 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-1.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 2 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-2.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 3 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-3.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 4 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-4.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 5 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-5.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 6 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-6.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 7 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-7.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+          <!-- event 8 -->
+          <div class="col-md-6 col-lg-4">
+            <div class="vs-blog blog-style1">
+              <div class="blog-img"><img src="/base/images/event/event-8.jpg" alt="Blog Image" class="w-100"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </section>
+
   <!-- CONTACTS -->
   <section id="contact" class="space-top space-extra-bottom">
     <div class="container">
@@ -869,7 +1002,8 @@
 
 
       <div class="tab-content" id="nav-contactTabContent">
-        <div class="tab-pane fade show active" id="nav-GermanyAddress" role="tabpanel" aria-labelledby="nav-GermanyAddress-tab">
+        <div class="tab-pane fade show active" id="nav-GermanyAddress" role="tabpanel"
+          aria-labelledby="nav-GermanyAddress-tab">
           <div class="row">
             <div class="col-lg-6 mb-30">
               <div class="contact-box">
@@ -885,7 +1019,8 @@
                   <div class="media-body">
                     <h4 class="contact-box__label">Número de telefone e e-mail</h4>
                     <p class="contact-box__info">
-                      <a href="tel:+244923232537">(+244) 923 232 537</a><a href="mailto:info@soerscorporation.ao">info@soerscorporation.ao</a>
+                      <a href="tel:+244923232537">(+244) 923 232 537</a><a
+                        href="mailto:info@soerscorporation.ao">info@soerscorporation.ao</a>
                     </p>
                   </div>
                 </div>
